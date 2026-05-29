@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 version3
 version4
 version5
 version6
 version5
 version6
+=======
+1111
+
+>>>>>>> branch1
